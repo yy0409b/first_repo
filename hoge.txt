@@ -1,3 +1,4 @@
 File is changed
 File is changed by master
 File is changed by tri-conflict
+File is changed by Collaborator
